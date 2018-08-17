@@ -55,7 +55,7 @@ int main(){
         	printf("\n");
         }
     }
-    else printf("\n\nNO SOLUTION\n\n");
+    else printf("NO SOLUTION\n");
 
     return 0;
 }
